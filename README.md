@@ -1,7 +1,7 @@
 # Top-50-sales
 Data Analysis (Descriptive Analytics)
 ## Business Questions
-1) Is there any outliers? 
+1) Is there any outliers? What can be reasons? 
 2) How do  reviews,price and user trainig  changed in years in term of Genre?
 3) Does price  statistically affect reviews?
 4) Is  there statistically different between fiction and non fiction in terms of Reviews, User Rating,Price?
